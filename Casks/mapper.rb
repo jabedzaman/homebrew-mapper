@@ -1,6 +1,6 @@
 cask "mapper" do
-  version "0.0.4"
-  sha256 "52b49fb1dac02fd43169802db206326804cb706e22eb1a990f3d20d5dea4c5ef"
+  version "0.0.5"
+  sha256 "1a7542e6718301b09563149656f3b9c94924e6c844e5dd0d6f2c11f2a509b422"
 
   arch arm: "aarch64"
   depends_on arch: :arm64
